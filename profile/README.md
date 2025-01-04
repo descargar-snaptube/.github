@@ -20,6 +20,7 @@ Snaptube es una herramienta de descarga de videos gratuita que soporta plataform
 - **Gratis:** No necesitas pagar para usar sus funciones principales.
 
 ---
+![DALL·E-2025-01-04-14 51](https://github.com/user-attachments/assets/e730c2b5-518e-4973-82be-238ec9b53efb)
 
 ## ¿Por qué Descargar Snaptube?
 
